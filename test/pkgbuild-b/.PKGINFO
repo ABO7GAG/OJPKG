@@ -1,0 +1,6 @@
+pkgname = ojbar
+pkgver = 0.3.1-2
+pkgdesc = Example config-carrying package
+arch = x86_64
+size = 5
+depend = ojbase

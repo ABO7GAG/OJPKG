@@ -1,0 +1,5 @@
+pkgname = ojbase
+pkgver = 1.0.0-1
+pkgdesc = Base utilities for OJLinux
+arch = x86_64
+size = 20

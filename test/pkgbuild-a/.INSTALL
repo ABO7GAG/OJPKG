@@ -1,0 +1,2 @@
+pre_install() { echo "[hook] about to install ojbase"; }
+post_install() { echo "[hook] ojbase installed!"; }
